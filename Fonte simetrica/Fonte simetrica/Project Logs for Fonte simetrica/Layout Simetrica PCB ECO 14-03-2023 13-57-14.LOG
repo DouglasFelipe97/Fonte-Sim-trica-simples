@@ -1,0 +1,10 @@
+Added Component: Designator=H1(Parafuso M3)
+Added Component: Designator=H2(Parafuso M3)
+Added Component: Designator=H3(Parafuso M3)
+Added Component: Designator=H4(Parafuso M3)
+Added Member To Class: ClassName=Sch Simetrica Member=Component H1 M3
+Added Member To Class: ClassName=Sch Simetrica Member=Component H2 M3
+Added Member To Class: ClassName=Sch Simetrica Member=Component H3 M3
+Added Member To Class: ClassName=Sch Simetrica Member=Component H4 M3
+Added Member To Class: ClassName=Sch Simetrica Member=Component J1 Conector 2v Phoenix
+Added Member To Class: ClassName=Sch Simetrica Member=Component J2 Conector 2v Phoenix
